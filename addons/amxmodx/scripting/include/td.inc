@@ -209,3 +209,16 @@ forward td_countdown_started(iToWhichWave);
 
 /* Executed 1 second before map change */
 forward td_remove_data();
+/*Zwracanie lvla gracza*/
+native td_gunmod_get_player_level(index);
+/*Zwracanie max lvla */
+native td_gunmod_get_max_level(index);
+/*Zwracanie expa*/
+native td_gunmod_get_player_exp(index);
+/*Ustawianie expa gracza (id,ilość)*/
+native td_gunmod_set_player_exp(index,exp);
+/*Ustawianie lvla gracza (id,ilość)*/
+native td_gumod_set_player_lvl(index,lvl);
+/*Wymuszenie zapisu*/
+native td_save(id);
+
