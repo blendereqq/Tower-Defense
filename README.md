@@ -110,7 +110,8 @@ wartości w nim można dowolnie zmieniać
 - Dodano model VIPA
 - Dodano modele graczy 
 - Dodano nowe dźwięki odtwarzające się podczas "czekania" na następny wave. (odtwarzane w pobliżu respawna potworów)
-
+Wersja 0.51 Beta 
+- Poprawki wykonanae przez BlendeR'a
 /* End of Changelog */
 
 AKTUALNA LISTA MAP DOSTĘPNA: http://cs.gamebanana.com/maps/cats/8329
